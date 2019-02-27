@@ -19,3 +19,7 @@ LiczbaPowtórzeñ	imie	nazwisko
 697
 
 6.4
+rok_nauki Œrednia
+1	83
+2	80,11
+3	292,44
