@@ -1,0 +1,25 @@
+6.1
+K: 976
+M: 1124
+
+6.2
+LiczbaPowtórzeñ	nazwisko	imie
+75	Jamski	Lucjan
+68	Maciak	Katarzyna
+67	Korbus	Marta
+65	Bujnarowski	Szymon
+65	Laskowski	Beniamin
+64	Kogut	Bartlomiej
+63	Pilski	Antoni
+61	Krefta	Mateusz
+61	Dlugosz	Dorota
+61	Kopacz	Piotr
+
+6.3
+697
+
+6.4
+rok_nauki Œrednio
+1	83
+2	80,11
+3	292,44
