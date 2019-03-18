@@ -3,4 +3,24 @@
 375 = 3+7+5+9k = 15+9k	40
 913 = 9+1+3+9k = 13+9k	100
 
- 
+2.2
+def suma_cyfr(n):
+    n = 123456
+    SumaCyfr = 0
+    while n>0:
+        SumaCyfr = SumaCyfr + n%10
+        n = n//10
+    return SumaCyfr
+
+2.3
+def suma_cyfr(n):
+    n = 123456
+    SumaCyfr = 0
+    while n>0:
+        SumaCyfr = SumaCyfr + n%10
+        n = n//10
+    return SumaCyfr
+n = 123456
+print(suma_cyfr(n))
+k = (n - suma_cyfr(n))/9
+print(k) 
