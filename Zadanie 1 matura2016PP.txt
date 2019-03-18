@@ -1,0 +1,30 @@
+1.1 
+3*2#2!1*
+8 8
+1.2
+3 Znaki
+1.3
+Bezstratna
+1.4
+"""
+Matura 2016 pp Zadanie 1.4
+(C) Karol Ko¿uchowski, marzec 2018 r.
+LO w Sobolewie
+"""
+n = 10
+T = 'qqqwwweeee'
+# b = ? rozmiar skompresowanego pliku
+TS = ''
+az = T[0]
+i = 0
+for z in T:
+    if z== az:
+        i+=1
+    else:
+        TS = TS+ str(i) +az
+        az = z
+        i = 1
+TS = TS + str(i) + az
+b = len(TS)
+print(TS)
+print(b)

@@ -1,0 +1,17 @@
+2.1 
+42 = 4+2+9k = 6+9k	4
+375= 3+7+5+9k=15+9k	40
+913= 9+1+3+9k = 13+9k	100
+
+2.2
+"""
+Matura 2016 pp Zadanie 2.3
+(C) Karol Ko¿uchowski, marzec 2018 r.
+LO w Sobolewie
+"""
+n=123456
+SumaCyfr= 0
+while n > 0:
+    SumaCyfr = SumaCyfr + n%10
+    n = n//10
+print(SumaCyfr)
