@@ -15,3 +15,20 @@ while n > 0:
     SumaCyfr = SumaCyfr + n%10
     n = n//10
 print(SumaCyfr)
+2.3
+"""
+Matura 2016 pp Zadanie 2.3
+(C) Karol Ko¿uchowski, marzec 2018 r.
+LO w Sobolewie
+"""
+def suma_cyfr(n):
+    n=123456
+    SumaCyfr= 0
+    while n > 0:
+        SumaCyfr = SumaCyfr + n%10
+        n = n//10
+    return SumaCyfr
+n=123456
+print(suma_cyfr(123456))
+k = (n-suma_cyfr(n))/9
+print(k)
