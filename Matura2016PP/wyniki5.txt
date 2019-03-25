@@ -1,0 +1,29 @@
+5.1
+Banach	Albert
+Bogdanska	Felicja
+Brun	Beata
+Chmiel	Tytus
+Gniewny	Piotr
+Kaczor	Edyta
+Knap	Anna
+Sawicki	Michal
+Szybki	Jerzy
+Wysoki	Feliks
+
+5.2
+Grupa_towarowa	Producent
+Notebooki	TSB
+Aparaty cyfrowe	SPE
+Notebooki	Beca
+Notebooki	TSB
+
+5.3
+Maksymilian	Stuhr	7
+
+5.4
+Boleslaw	Piec
+Iwo	Malicki
+Wojciech	Maly
+
+5.5
+39
