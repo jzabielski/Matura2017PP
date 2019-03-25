@@ -1,0 +1,15 @@
+4.1
+24
+
+
+4.2
+aleksandrowski	0,1
+augustowski	1
+bartoszycki	3,4
+bedzinski	-2,3
+belchatowski	3,4
+bialobrzeski	1
+bialogardzki	3,7
+bialostocki	1,8
+bialski   	4,1
+bielski	        -3,6
