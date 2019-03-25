@@ -1,0 +1,12 @@
+5.1
+imie	nazwisko
+Albert	Banach
+Anna	Knap
+Beata	Brun
+Edyta	Kaczor
+Felicja	Bogdanska
+Feliks	Wysoki
+Jerzy	Szybki
+Michal	Sawicki
+Piotr	Gniewny
+Tytus	Chmiel
