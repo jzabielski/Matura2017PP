@@ -1,31 +1,29 @@
 5.1
-2-ki 204 razy
+Banach	Albert
+Bogdanska	Felicja
+Brun	Beata
+Chmiel	Tytus
+Gniewny	Piotr
+Kaczor	Edyta
+Knap	Anna
+Sawicki	Michal
+Szybki	Jerzy
+Wysoki	Feliks
 
 5.2
-2-ki	2985
-3-ki	2816
-4-ki	2944
-5-ki	2997
-6-ki	3244
+Grupa_towarowa	Producent	Nazwa_produktu
+Notebooki	TSB	A8-143
+Aparaty cyfrowe	SPE	IXP3
+Notebooki	Beca	TM4233
+Notebooki	TSB	SATP100-260
 
 5.3
-typ	op³ata
-6-ki	196335,25
-5-ki	151509,94
-4-ki	119478,24
-3-ki	
-2-ki	61401
+Maksymilian	Stuhr		7
 
 5.4
-1	1078,32
-2	611,15
-3	565,22
-4	322,96
-5	299,66
-6	568,59
-7	628,6
-8	531,33
-9	1045,12
-10	813,25
-11	1107,8
-12	893,16
+Krystian	Garnek
+Albin	Szary
+Ma³gorzata	Sobieska
+
+5.5
+39
