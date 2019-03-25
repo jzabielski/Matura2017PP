@@ -1,0 +1,32 @@
+5.1
+nazwisko	imie	
+Banach	Albert	Notebooki	
+Bogdanska	Felicja	Notebooki	0
+Brun	Beata	Notebooki	
+Chmiel	Tytus	Notebooki	
+Gniewny	Piotr	Notebooki	
+Kaczor	Edyta	Notebooki	
+Knap	Anna	Notebooki	
+Sawicki	Michal	Notebooki	
+Szybki	Jerzy	Notebooki	
+Wysoki	Feliks	Notebooki	
+
+5.2
+imie	nazwisko	ID_klienta	ID_Produktu	Nazwa_produktu	Grupa_towarowa	ID_zamowienia	Data
+Anna	Kotnicka	AK689		457		SATP100-260	Notebooki	209/2013	22.04.2013
+Anna	Kotnicka	AK689		397		TM4233		Notebooki	72/2013		02.03.2013
+Anna	Kotnicka	AK689		207		IXP3		Aparaty cyfrowe	175/2012	14.09.2012
+Anna	Kotnicka	AK689		412		A8-143		Notebooki	119/2012	30.07.2012
+
+5.3
+imie		nazwisko		Policz Of Zamowienia
+Maksymilian	Stuhr			7
+
+5.4
+imie		nazwisko
+Krystian	Garnek
+Albin		Szary
+Ma³gorzata	Sobieska
+
+5.5
+39
