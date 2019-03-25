@@ -1,0 +1,29 @@
+5.1
+Banach	Albert
+Bogdanska	Felicja
+Brun	Beata
+Chmiel	Tytus
+Gniewny	Piotr
+Kaczor	Edyta
+Knap	Anna
+Sawicki	Michal
+Szybki	Jerzy
+Wysoki	Feliks
+
+5.2
+Grupa_towarowa	Producent	Nazwa_produktu
+Notebooki	TSB	A8-143
+Aparaty cyfrowe	SPE	IXP3
+Notebooki	Beca	TM4233
+Notebooki	TSB	SATP100-260
+
+5.3
+Maksymilian	Stuhr		7
+
+5.4
+Krystian	Garnek
+Albin	Szary
+Ma³gorzata	Sobieska
+
+5.5
+39
