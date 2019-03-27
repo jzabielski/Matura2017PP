@@ -52,6 +52,3 @@ n = 123456
 print(suma_cyfr(n))
 k = (n - suma_cyfr(n))/9
 print(k)
-
-3.1
-
