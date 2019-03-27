@@ -30,7 +30,14 @@ with open("dane6.txt","r") as plik:
                 najwieksza_pierwsza = liczba
             if liczba < najmniejsza_pierwsza:
                 najmniejsza_pierwsza = liczba
-with open("wyniki6_3.txt","w") as wyniki:
-    for i in range(0,8,2):
+
+with open("wyniki6.txt","w") as wyniki:
+	wyniki.write("6.1 \n")
+	wyniki.write(str(liczby_pierwsze)+"\n"+"\n")
+	wyniki.write("6.2 \n")
+	wyniki.write(str(najwieksza_pierwsza)+"\n")
+	wyniki.write(str(najmniejsza_pierwsza)+"\n"+"\n")
+	wyniki.write("6.3 \n")
+	for i in range(0,8,2):
             wyniki.write(str(pary[i])+" ; "+str(pary[i+1])+"\n")
             
