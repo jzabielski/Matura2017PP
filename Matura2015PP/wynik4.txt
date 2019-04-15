@@ -1,0 +1,15 @@
+4.1
+Dama	Granta	Dorkas	Lodera
+317	300	322	398
+
+4.2
+Lodera
+305
+2014 II
+
+4.3
+Dama	Granta	Dorkas	Lodera
+18	9	17	32
+
+4.4
+29368
