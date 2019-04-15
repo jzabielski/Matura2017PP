@@ -1,0 +1,20 @@
+4.1
+Dama	Granta	Dorkas	Lodera
+317	300	322	398
+
+4.2
+2014 II
+305
+Lodera
+
+4.3
+Dama - 18 razy
+Granta - 9 razy
+Dorkas - 17 razy
+Lodera - 32 razy
+
+4.4
+29368
+
+4.5
+wykres zawarty w pliku arkusza
