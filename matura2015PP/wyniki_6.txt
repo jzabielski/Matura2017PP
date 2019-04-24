@@ -1,0 +1,6 @@
+6.
+imie Pole	nazwisko Pole
+Maria	Zamojska
+Krystyna	Tobera
+Grzegorz	Potocki
+Ewa	Klimaszewska
