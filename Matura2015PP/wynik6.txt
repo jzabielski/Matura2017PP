@@ -1,2 +1,15 @@
 6.1
 Sakson	Rodryk
+
+6.2
+Kazimierz	Baran
+
+6.3
+Potocki	Grzegorz
+Tobera	Krystyna
+Zamojska	Maria
+Klimaszewska	Ewa
+
+6.4
+Max: BRE Bank SA;	103 konta;	530751,56 z³
+Min: Skok;	5 kont;		28202,6 z³
