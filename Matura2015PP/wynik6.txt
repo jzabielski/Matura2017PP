@@ -2,3 +2,14 @@
 Sakson	Rodryk
 
 6.2
+Kazimierz	Baran	42366,12
+
+6.3
+Grzegorz	Potocki
+Krystyna	Tobera
+Maria	Zamojska
+Ewa	Klimaszewska
+
+6.4
+BRE Bank SA	530751,56	103
+Skok		28202,6		5
