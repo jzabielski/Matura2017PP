@@ -1,0 +1,20 @@
+2a)
+a=[12,45,7,39,1,20]
+
+a=[1,21,56,90,8,8,19,47]
+
+2b)
+<=
+
+2c)
+i = 1
+dopóku i < n wykonuj
+	jezeli a[i] > a[i+1], to zmien wartosci a[i] oraz a[i+1]
+	i = i + 2
+min = a[1]
+max = a[2]
+
+dopóki i<n wykonuj
+	jezeli a[i] < min, to min = a[i]
+	jezeli a[i+1] > max, to max = a[i+1]
+	i = i + 2
