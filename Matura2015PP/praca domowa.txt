@@ -1,0 +1,36 @@
+Zadanie (2.2)
+
+dla kolejnych i = 1, 2..., k wykonaj T[i] ‹ 0 
+
+dla kolejnych i = 1, 2..., n wykonaj 
+
+pozycja ‹ A[i] 
+
+T[pozycja] ‹ T[pozycja]+1 
+
+y ‹ 1 
+
+dla kolejnych i = 2,..., k wykonuj 
+
+je¿eli T [i] > T [y], to 
+
+y ‹ i 
+
+wypisz y 
+
+
+
+Zadanie (3)
+
+3.1 D – 8 
+
+3.2 D – DNS 
+
+3.3 B - umo¿liwia  identyfikacjê wiersza 
+
+3.4 B – 27 
+
+3.5 C – nie zda³ 
+
+3.6 C - mp3 ?
+

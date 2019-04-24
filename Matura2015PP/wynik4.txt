@@ -1,0 +1,16 @@
+1)
+Dama	Granta	Dorkas	Lodera
+317	300	322	398
+
+2)
+2014 II	305	Lodera
+
+3)
+Dama	Granta	Dorkas	Lodera
+18	9	17	32
+
+4)
+sami uczniowie
+
+5)
+wykres 
