@@ -1,0 +1,15 @@
+a)
+1. powtorzenia w nazwie i adresie
+2. zmiana adresu w jednym rekordzie moze nie zmienic tego adresu w innym rekordzie
+b)
+170
+c)
+URL
+d)
+modem
+e)
+$B$12
+f)
+JPEG, GIF, BMP
+g)
+2
