@@ -1,0 +1,19 @@
+a)
+Wiek	DZIECI
+3	795
+4	150
+5	77
+6	9
+
+b)
+Nazwa_przedszkola				Ogó³em	dziewcz¹t 	ch³opców
+
+Przedszkole nr 28 Srebrna Kotwica		28	14		14
+Przedszkole nr 49 im. Panienki z Okienka	33	17		16
+Przedszkole nr 87 Gwiezdna Kraina		50	27		23
+
+c)
+Przedszkole nr 75 Reksio	54
+
+d)
+Przedszkole nr 5 Pod Wesola Chmurka; 5

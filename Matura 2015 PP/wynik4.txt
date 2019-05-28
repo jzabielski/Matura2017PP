@@ -1,0 +1,19 @@
+4.1
+Dama 317
+Granta 300
+Dorkas 322
+Lodera 398
+
+4.2
+II 2014 Lodera 305 sztuk
+
+4.3
+Dama	18
+Granta	9
+Dorkas	17
+Lodera	32
+
+4.4
+29368
+
+4.5

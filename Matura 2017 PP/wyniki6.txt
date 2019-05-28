@@ -1,0 +1,26 @@
+6.1
+
+976 dziewcz¹t
+1124 ch³opców
+
+6.2
+
+Jamski	Lucjan	75
+Maciak	Katarzyna	68
+Korbus	Marta	67
+Bujnarowski	Szymon	65
+Laskowski	Beniamin	65
+Kogut	Bartlomiej	64
+Pilski	Antoni	63
+Krefta	Mateusz	61
+Kopacz	Piotr	61
+Dlugosz	Dorota	61
+
+6.3
+697
+
+6.4
+
+1	83
+2	80,11
+3	292,44

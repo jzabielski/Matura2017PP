@@ -1,0 +1,28 @@
+5.1
+Banach	Albert
+Bogdanska Felicja
+Brun	Beata
+Chmiel	Tytus
+Gniewny	Piotr
+Kaczor	Edyta
+Knap	Anna
+Sawicki	Michal
+Szybki	Jerzy
+Wysoki	Feliks
+
+5.2
+A8-143 Notebooki TSB 
+IXP3 Aparaty cyfrowe SPE 
+TM4233 Notebooki Beca 
+SATP100-260 Notebooki TSB 
+
+5.3
+Stuhr Maksymilian 7
+
+5.4
+Krystian Garnek 41471,02 z³ 
+Albin Szary 32311,58 z³ 
+Ma³gorzata Sobieska 31725,98 z³ 
+
+5.5
+39

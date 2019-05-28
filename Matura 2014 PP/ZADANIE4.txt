@@ -1,0 +1,11 @@
+a)
+500,18	S
+1500	X
+
+b)
+Rodzaj	Œrednia powierzchnia	Liczba dzia³ek
+B	999,59			1775
+L	1016,75			559
+R	989,98			708
+S	986,12			964
+X	989,94			994
