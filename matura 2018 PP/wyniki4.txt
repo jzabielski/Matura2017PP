@@ -1,0 +1,18 @@
+4.1
+Bukowina	26
+Grot	12
+Jaworzyna	49
+Plomien	16
+Watra	14
+Wierchy	42
+Zawisza	11
+Zywioly	17
+
+4.2
+tropiciel	45035
+ratownik	4263
+
+4.3
+
+
+4.4
