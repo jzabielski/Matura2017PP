@@ -1,0 +1,20 @@
+a)
+500,18	S
+1500	X
+
+b)
+B 1775	999,59
+L 559	1016,75
+R 708	989,98
+S 964	986,12
+X 994	989,94
+
+c)
+do 100	2096
+miêdzy 100 i 500	2133
+ponad 500	771
+
+wykres w pliku zadanie4matura2014PP.xlsx
+
+
+
